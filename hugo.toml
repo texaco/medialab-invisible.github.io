@@ -2,3 +2,7 @@ baseURL = 'https://medialab-invisible.github.com/'
 languageCode = 'es-es'
 title = 'Medialab de la Invisible'
 theme = 'ananke'
+
+sectionPagesMenu = "main"
+
+pluralizeListTitles = false
